@@ -1,0 +1,11 @@
+com.bosenet.lapp.admincmd
+com.bosenet.lapp.admincmd.notification.api
+com.bosenet.lapp.admincmd.notification.entity
+com.bosenet.lapp.admincmd.notification.repository
+com.bosenet.lapp.admincmd.notification.service
+com.bosenet.lapp.admincmd.rules.substitution.api
+com.bosenet.lapp.admincmd.rules.substitution.dto
+com.bosenet.lapp.admincmd.rules.substitution.entity
+com.bosenet.lapp.admincmd.rules.substitution.mapper
+com.bosenet.lapp.admincmd.rules.substitution.repository
+com.bosenet.lapp.admincmd.rules.substitution.service
